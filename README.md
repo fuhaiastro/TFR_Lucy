@@ -2,7 +2,7 @@
 
 [![arxiv: 2401.13738](http://img.shields.io/badge/arXiv-2401.13738-orange.svg)](https://arxiv.org/abs/2401.13738) [![GitHub: TFR_biases](https://img.shields.io/badge/GitHub-fuhaiastro%2FTFR\_Lucy-blue.svg)](https://github.com/fuhaiastro/TFR_Lucy) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Alt text](xsig20.0_ysig0.14_w30/phi_psi_n30.png) 
+![Rectification result after 30 iterations](/xsig20.0_ysig0.14_w30/phi_psi_n30.png) 
 
 This repository accompanies the *Astrophysical Journal Letter*: Fu (2024) [Restoration of the Tully-Fisher Relation by Statistical Rectification](https://ui.adsabs.harvard.edu/abs/2024arXiv240113738F/abstract).
 
